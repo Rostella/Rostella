@@ -1,6 +1,7 @@
 ﻿[Rostella](https://rostella.github.io) IOT Automatic / Remote Garden System
 ===================
 ---
+(This page is still under development) 
 Please read https://rostella.github.io to introduce yourself to the system.
 
 Our system works by making a two-way connection between the device and database. By using a request through HTTP we can send and receive data on a WiFi network. Our database runs on MySQL specifically.
