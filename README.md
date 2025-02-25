@@ -3,7 +3,7 @@
 ---
 Please read https://rostella.github.io to introduce yourself to the system.
 
-Our system works by making a two-way connection between the device and database. By using a request through HTTPS we can send and receive data on a WiFi network. The database runs on MySQL specifically.
+Our system works by making a two-way connection between the device and RESTful database.
 
 The database can include any info, specifically with our setup:
  - Soil moisture %
